@@ -19,9 +19,9 @@ See our other plugins:
 [**Have some feedback or a suggestion? Let us know!**](http://para.llel.us/#Contact)
 
 == Installation ==
-Upload the plugin to your WordPress plugins directory, or use the dashboard to 'Add New' plugins and activate it. That's it!
+Upload the plugin to your WordPress plugins directory, or use the dashboard to 'Add New' plugins and activate it.
 
-#### Filters
+#### Filters 
 
 There are a couple of filters available to make adjustments for your site. These may be added to an options panel in a future release.
 
